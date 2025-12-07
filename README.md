@@ -22,10 +22,6 @@ The robot can play in two different modes:
 2. **Advanced Mode:** A Leap Motion Controller detects the player’s hand gesture and the robot responds intelligently.
 
 
-The goal of this project is to demonstrate two tiers of interaction design in a single game:
-
-- **Beginner-friendly interaction** using a PIR sensor that makes the robot pick random moves whenever motion is detected.
-- **Advanced interaction** using Leap Motion for real-time hand-gesture recognition, enabling the robot to detect the player's choice (rock, paper, or scissors) and respond accordingly.
 
 A microcontroller drives the robot’s mechanical movement, while software interprets gestures and decides the robot’s move.  
 The result: a flexible platform that showcases both simple sensor-based behavior and high-precision 3D motion tracking.
