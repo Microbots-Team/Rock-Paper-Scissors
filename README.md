@@ -1,5 +1,17 @@
 # ✋🤖 Rock-Paper-Scissors Robot
 
+<img src="images/1.png" alt="project">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
+
+## 💡 Project Overview
+
 An interactive **Rock-Paper-Scissors** game where the visitor plays against a **robotic arm** that mimics human hand movements.  
 Using **computer vision**, the camera detects the user’s hand gesture, and the robotic arm responds by selecting and performing its move (rock, paper, or scissors) mechanically.
 
@@ -9,11 +21,6 @@ The robot can play in two different modes:
 1. **Simple Mode:** A PIR motion sensor triggers randomized robotic moves.  
 2. **Advanced Mode:** A Leap Motion Controller detects the player’s hand gesture and the robot responds intelligently.
 
-
----
-
-
-## 💡 Project Overview
 
 The goal of this project is to demonstrate two tiers of interaction design in a single game:
 
